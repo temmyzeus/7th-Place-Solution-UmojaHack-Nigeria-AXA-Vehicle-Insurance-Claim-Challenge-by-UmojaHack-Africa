@@ -9,4 +9,4 @@ Missing Values which are all categorical were filled just with the word "missing
 
 ### Modelling
 
-Simple Random Forest Classifier was used with predict probabilities and a custo function was used the threshold the probabilities to 0's and 1's with the threshold itself being set at 0.388
+Simple Random Forest Classifier was used with predict probabilities and a custom function was used to threshold the probabilities to 0's and 1's with the threshold itself being set at 0.388
